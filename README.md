@@ -15,6 +15,7 @@
 * GitHub Pages
 
 ### 🔖 Theory
+[react 내용 정리](https://www.notion.so/study-React-c307eb4d2b6441159aa91952a9e9fc6e)
 * `JSX`
 * `State`
 * `Props`
